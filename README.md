@@ -6,7 +6,7 @@
 2. Explain how React Router allows building a route tree as a component
 3. Describe how routes are matched in React Router
 
-## A complicated world needs an address
+## A complicated world needs an addres
 
 So far, we have been building our applications without any navigation, so
 everything in the app has lived at the same URL. Currently, we can make it look
